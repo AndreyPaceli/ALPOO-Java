@@ -1,4 +1,5 @@
-# AulasAlpoo
+# Aulas de Aplicações de Ling. de Prog. Orientada a Objetos.
+
 Repositório das aulas da disciplina ALPOO de 2020, no curso de Ciência da Computação
 
 Tecnologias que serão utilizadas na disciplina de ALPOO:
