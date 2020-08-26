@@ -7,7 +7,6 @@ public class Exemplo2 extends JFrame {
     
     String firstNumber;
     String secondNumber;
-    int number1;
 
     public Exemplo2() {
         
