@@ -1,7 +1,7 @@
 # 2020-alpoo
 Repositório das aulas da disciplina ALPOO de 2020, no curso de Ciência da Computação
 
-Tecnologias que serão utilizadas na disciplina de ALPOO:
+Tecnologias que foram utilizados na disciplina de ALPOO:
 * Java Swing
 * JDBC
 * MVC
